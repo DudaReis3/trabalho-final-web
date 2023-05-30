@@ -2,13 +2,14 @@
 
 ## Badeijão do IF Salinas-MG
 
-### Site para otimização das filas e das vendas de tickets alimentícios do refeitório do IFNMG campus Salinas-MG. Este espaço irá organizar as filas de forma online, objetivando causar uma melhor qualidade de vida aos alunos e servidores, ocasionando assim, em um melhor aproveitamento do tempo de intervalo.
+### Site para otimização das filas e das vendas de tickets alimentícios do refeitório do IFNMG Campus Salinas-MG. Este espaço irá organizar as filas de forma online, objetivando causar uma melhor qualidade de vida aos alunos e servidores, ocasionando assim, em um melhor aproveitamento do tempo de intervalo.
 
 ### As filas extensas do refeitório e a falta do aproveitamento do intervalo.
 
 ### Alunos e servidores do campus.
 
-### Reserva dos lugares na fila, venda de tickets, carteirinha estudantil digital.
+### Organização virtual das filas; Apresentação da carteirinha estudantil do uso exclusivo do refeitório; Compra de tickets; Usuário Corporativo; Cadastrar; Login; Sistema de notificação;
+
 
 # Proposta 02
 
@@ -20,7 +21,7 @@
 
 ### Clientes e consumidores que buscam vestirem-se melhor e estarem sempre bem apresentados.
 
-### Compras de mercadorias, controle de estoque, integração das redes sociais com a loja virtual.
+### Controle de estoque; Cadastro de produtos; Mostrar catálogo; Cadastro de usuário; Escolher forma de pagamento; Escolher forma de entrega; Adicionar no carrinho a(s) peça(s); Escolher a numeração do produto; Favoritar peças; Filtro de pesquisa;
 
 # Proposta 03
 
@@ -32,4 +33,4 @@
 
 ### Alunos do IFNMG-Salinas
 
-### Expor seus gostos e alinhá-los com o de pessoas com os mesmos interesses, uma base de idade e de cursos estabelecidas pelo usuário para uma diminuição do parâmetro de procura.
+### Média de compatibilidade; Match; Chat; Filtro de pesquisa; Fazer login; Cadastro do usuário; Perfil personalizado; Cadastro de eventos;
