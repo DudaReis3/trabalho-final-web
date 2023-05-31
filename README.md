@@ -1,7 +1,7 @@
 # ERRO 404
 
 ### Integrantes
-[comment]: 
+[comment]: <>
 
      * Aléxia Dias Batista [https://github.com/AlexiaDiasB]   
 
