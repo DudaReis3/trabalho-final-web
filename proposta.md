@@ -8,7 +8,14 @@
 
 ### Alunos e servidores do campus.
 
-### Organização virtual das filas; Apresentação da carteirinha estudantil de uso exclusivo do refeitório; Compra de tickets; Usuário Corporativo; Cadastro; Login; Sistema de notificação;
+### <ul>
+    <li> 1.Organização virtual das filas; </li> 
+    <li> 2.Apresentação da carteirinha estudantil de uso exclusivo do refeitório; </li> 
+    <li> 3.Compra de tickets; </li> 
+    <li> 4.Usuário Corporativo; </li> 
+    <li> 5.Login; </li> 
+    <li> 6.Sistema de notificação; </li>  
+  <ul>
 
 
 # Proposta 02
