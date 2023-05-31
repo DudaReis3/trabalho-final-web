@@ -2,6 +2,7 @@
 
 ### Integrantes
 [comment]: 
+
      * Aléxia Dias Batista [https://github.com/AlexiaDiasB]   
 
      * Danyel Inácio Batista Silva [https://github.com/DannRann]   
