@@ -38,14 +38,23 @@
 ### 
 
 1.Controle de estoque
+
 2.Cadastro de produtos
+
 3.Exibição do catálogo
+
 4.Cadastro do usuário
+
 5.Escolha da melhor forma de pagamento
+
 6.Escolha da forma de entrega
+
 7.Adicionar ao carrinho a(s) peça(s)
+
 8.Escolher a numeração do produto
+
 9.Favoritar peças
+
 10.Filtros de pesquisa
 
 # Proposta 03
@@ -58,4 +67,21 @@
 
 ### Alunos do IFNMG-Salinas.
 
-### 1.Média de compatibilidade; 2.Match; 3.Chat; 4.Filtro de pesquisa; 5.Fazer login; 6.Cadastro do usuário; 7.Perfil personalizado; 8.Cadastro de eventos;
+###
+
+1.Média de compatibilidade
+
+2.Match
+
+3.Chat
+
+4.Filtro de pesquisa
+
+5.Fazer login
+
+6.Cadastro do usuário
+
+7.Perfil personalizado
+
+8.Cadastro de eventos
+
