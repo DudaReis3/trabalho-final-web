@@ -9,19 +9,33 @@
 ### Alunos e servidores do campus.
 
 ### 
-1.Organização virtual das filas
+1.Formação da fila virtual : os alunos/ servidores poderão entrar numa fila virtual, assim eles poderão poupar tempo e receber um número que apontará sua posição na fila.
 
-2.Apresentação da carteirinha estudantil de uso exclusivo do refeitório
+2.Exibir número na fila; O sistema deverá exibir um número único para cada usuário de acordo com a fila.
 
-3.Compra de tickets 
+3.Exibição Cardápio: O site exibirá o cardápio das refeições, seja ela café da manhã, almoço, café da tarde, jantar e ceia, de acordo com o regime de cada usuário.
 
-4.Usuário Corporativo 
+4.Atualização do Cardápio: O sistema deve permitir que o usuário administrativo realize atualização do cardápio.
 
-5.Cadastro 
+5.Abrir fila: O sistema deve permitir que o usuário administrativo abra a fila, permitindo que os usuários padrões possam começar a reserva.
 
-6.Login
+6.Entrar na fila: O sistema permitirá que o usuário padrão entre na fila virtual, reservando assim um lugar.
 
-7.Sistema de notificação
+7.Sistema de notificações: O sistema notificará o usuário quando for sua vez de entrar no refeitório.
+
+8.Ocupação: O sistema deverá estimar o atual fluxo de pessoas no refeitório
+
+9.Fazer cadastros: O sistema permitirá o cadastro de alunos e servidores da Instituição, tornando possível a identificação dos alunos e servidores.
+
+10.Login e senha : Cada usuário possuirá um login, isto é, um nickname, uma senha e um id fornecido pela instituição.
+
+11.Editar perfil: Tornará possível que o usuário, administrativo ou padrão, edite seu perfil, alterando foto do perfil, senha e outras informações pessoais.
+
+12.Compatibilidade: O sistema deve ser compatível com navegadores de web.
+
+13.Transações: Transações de no máximo 10 segundos, para realizar alterações no perfil e exibições de novas telas. Também transações de 30 segundos para exibir o número na fila.
+ 
+14.Acesso em dispositivos: Cada usuário poderá estar logado em somente 1 dispositivo no mesmo momento.
 
 
 
