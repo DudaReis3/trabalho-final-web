@@ -46,13 +46,12 @@ O público-alvo deste projeto é composto pelos alunos e servidores do campus do
 
 A seguir, estão listadas algumas das principais tecnologias que serão utilizadas no desenvolvimento do projeto:
 
-- Linguagem de Programação: (inserir linguagem de programação utilizada)
-- Framework Web: (inserir framework web utilizado)
-- Banco de Dados: (inserir sistema de gerenciamento de banco de dados utilizado)
-- Bibliotecas e Ferramentas Adicionais: (inserir outras tecnologias relevantes)
+- Linguagem de Programação: HTML, CSS, JS, C#
+- Framework Web: ASP.Net
+- Banco de Dados: MySql
+- Bibliotecas e Ferramentas Adicionais: Bootstrap
 
 ## Considerações Finais
 
 O projeto "Bandeijão do IF Salinas-MG" tem como objetivo oferecer uma solução prática e eficiente para a otimização das filas e vendas de tickets alimentícios no refeitório do IFNMG Campus Salinas-MG. Espera-se que o site facilite a vida dos alunos e servidores, proporcionando uma melhor experiência durante o intervalo, além de auxiliar a instituição na gestão do fluxo de pessoas no refeitório.
 
-(Obs.: A documentação acima é uma estrutura genérica de documentação de projeto e pode ser adaptada conforme as necessidades específicas do projeto e as tecnologias reais utilizadas.)
