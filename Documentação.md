@@ -1,6 +1,6 @@
 # Documentação do Projeto: Bandeijão do IF Salinas-MG
 
-## Proposta 01 - Descrição Geral
+## Descrição Geral
 
 O projeto "Bandeijão do IF Salinas-MG" é um site desenvolvido para otimizar as filas e as vendas de tickets alimentícios no refeitório do IFNMG (Instituto Federal do Norte de Minas Gerais) Campus Salinas-MG. O objetivo principal do site é organizar as filas de forma online, proporcionando uma melhor qualidade de vida aos estudantes e servidores, garantindo um melhor aproveitamento do tempo de intervalo.
 
