@@ -12,7 +12,7 @@
    
 - [Víctor Gabriel Cruz Pereira](https://github.com/Victorgabrielcruz21)
 
-
+- Figma (https://www.figma.com/file/ptqSFisZrwX6fpRy536VPX/Untitled?type=design&node-id=0%3A1&mode=design&t=8wfktxOrqUYn19m0-1)
      
   
 
